@@ -15,3 +15,7 @@ There's a platform built(ChatBot) wherein I am using Twilio SendGrid to send ema
 ### Libraries:
 * python_http_client or requests
 * sendgrid.helpers.mail (optional)
+
+My contribution and learning towards Python programming language will always be updated here in my GitHub profile: [https://github.com/ManudattaG/my_python_project.git]
+
+## NOTE : Any suggestions or issues related to this project are welcome. Please open an issue to discuss on the changes.
